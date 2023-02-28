@@ -11,3 +11,4 @@ This is a simple website project for showing how to use Git and GitHub together.
 Sample website with plenty of files for demos
 
 ## Deployment
+This is an example to show different parts of git repository and various commands using a web project.
