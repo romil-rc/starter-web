@@ -8,6 +8,7 @@
 # THANKS
 
     Thanks to everyone on this planet.
+    Please leave a review for this repository.
 
 # TECHNOLOGY COLOPHON
 
