@@ -15,4 +15,6 @@ This is an example to show different parts of git repository and various command
 
 Deploments can be on any web servers.
 
-## 
+## Copyright
+
+2023 Git.Learning
