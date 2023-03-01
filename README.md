@@ -25,3 +25,5 @@ Please fork this repository and then issue pull requests for review.
 ## Copyright
 
 2023 Git.Learning. All rights reserved.
+
+## Updates from dev 1.
